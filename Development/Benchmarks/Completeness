@@ -1,0 +1,11 @@
+**Completeness Benchmark:**
+
+  id: content-completeness-benchmark
+  title: "Content Completeness"
+  narrative: >
+    Make sure that the DMP's content is complete according to used templates' requirements and expectations.
+  dimension: "Completeness - Content"
+  type: "Content Completeness Benchmark"
+  algorithm: "Binary score (pass/fail)"
+  assessment_outcome:
+    type: "Score + Textual classification"
